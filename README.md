@@ -23,4 +23,5 @@ Sunt atasate mai jos si niste fisiere .cnf cu date de test. Este atasat codul pe
 
 --path
 
-"Locatia unde se salveaza folderul cu teste" Programul se poate testa in IDE-uri precum PyChar, nu online.
+"Locatia unde se salveaza folderul cu teste" 
+Programul se poate testa in IDE-uri precum PyChar, nu online.
